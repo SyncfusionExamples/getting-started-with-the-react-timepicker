@@ -21,7 +21,7 @@ Increment or decrement each time value of the selection list by one step at a ti
 
 ## Related links
 [Learn More about React TimePicker](https://www.syncfusion.com/react-components/react-timepicker?utm_source=github&utm_medium=listing&utm_campaign=react-timepicker-github-samples)
-[Download Free Trial](https://www.syncfusion.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=react-timepicker-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/react?utm_source=github&utm_medium=listing&utm_campaign=react-timepicker-github-samples)
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=react-timepicker-github-samples)
 [Documentation](https://ej2.syncfusion.com/react/documentation/timepicker/getting-started?utm_source=github&utm_medium=listing&utm_campaign=react-timepicker-github-samples)
 [View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-react-timepicker?utm_source=github&utm_medium=listing&utm_campaign=react-timepicker-github-samples)
